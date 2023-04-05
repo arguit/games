@@ -8,7 +8,7 @@ Kind of Sokoban spin-off for two players.
 
 ### Download
 
-* [Pushmania 1.0.0-alpha.zip](https://github.com/arguit/games/blob/master/releases/Pushmania%201.0.0-alpha.zip)
+* [Pushmania 1.0.0-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.0.0-alpha.zip)
 
 ### Controls
 
