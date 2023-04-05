@@ -4,7 +4,7 @@ Kind of Sokoban spin-off for two players.
 
 > It is a remake of my 21 years old game originally written in QBasic. ^_^)/
 
-<video src='https://user-images.githubusercontent.com/47626763/230105525-18534a5e-33ec-4bc4-8c45-1d44369216c4.mp4' />
+![image](https://user-images.githubusercontent.com/47626763/230110455-bcb3e535-6b58-49c1-9509-0a28ab077c15.png)
 
 ### Download
 
