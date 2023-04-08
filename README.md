@@ -6,6 +6,17 @@ Kind of Sokoban spin-off for two players.
 
 ![image](https://user-images.githubusercontent.com/47626763/230110455-bcb3e535-6b58-49c1-9509-0a28ab077c15.png)
 
+### Controls
+
+```text
+Player 1: arrows
+Player 2: w,a,s,d
+
+Esc .. back to menu
+F5  .. restart map
+Tab .. swap controls
+```
+
 ### Download
 
 * [Pushmania 1.2.0-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.2.0-alpha.zip)
@@ -17,14 +28,3 @@ Kind of Sokoban spin-off for two players.
   * added game mechanic `crate and holes`
 * Pushmania 1.0.0-alpha.zip
   * first working version
-
-### Controls
-
-```
-Player 1: arrows
-Player 2: w,a,s,d
-
-Esc .. back to menu
-F5  .. restart map
-Tab .. swap players controls
-```
