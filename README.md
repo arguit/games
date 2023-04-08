@@ -8,6 +8,10 @@ Kind of Sokoban spin-off for two players.
 
 ### Download
 
+* [Pushmania 1.2.0-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.2.0-alpha.zip)
+  * added possibility to delete custom map
+  * added application icon
+  * fix various map editor issues
 * [Pushmania 1.1.0-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.1.0-alpha.zip)
   * added map editor
   * added game mechanic `crate and holes`
