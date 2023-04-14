@@ -19,7 +19,9 @@ Tab .. swap controls
 
 ### Download
 
-* [Pushmania 1.2.0-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.2.0-alpha.zip)
+* [Pushmania 1.2.1-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.2.1-alpha.zip)
+  * fix some editor ui issues
+* Pushmania 1.2.0-alpha.zip
   * added possibility to delete custom map
   * added application icon
   * fix various map editor issues
