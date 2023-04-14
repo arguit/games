@@ -19,7 +19,10 @@ Tab .. swap controls
 
 ### Download
 
-* [Pushmania 1.3.0-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.0-alpha.zip)
+* [Pushmania 1.3.1-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.1-alpha.zip)
+  * fix tile set alternative tiles issue
+  * fix some map editor issues
+* Pushmania 1.3.0-alpha.zip
   * changed map data format (BREAKING CHANGE: old save file will not work anymore and will be deleted - custom maps included!)
   * added new tiles
 * Pushmania 1.2.1-alpha.zip
