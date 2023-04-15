@@ -19,7 +19,10 @@ Tab .. swap controls
 
 ### Download
 
-* [Pushmania 1.3.2-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.2-alpha.zip)
+* [Pushmania 1.3.3-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.3-alpha.zip)
+  * add posibility to use different object and targets
+  * add new tiles for `dark souls`
+* Pushmania 1.3.2-alpha.zip
   * add `export and import map` feature to map editor
 * Pushmania 1.3.1-alpha.zip
   * fix tile set alternative tiles issue
