@@ -19,22 +19,24 @@ Tab .. swap controls
 
 ### Download
 
-* [Pushmania 1.3.1-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.1-alpha.zip)
+* [Pushmania 1.3.2-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.2-alpha.zip)
+  * add `export and import map` feature to map editor
+* Pushmania 1.3.1-alpha.zip
   * fix tile set alternative tiles issue
   * fix some map editor issues
 * Pushmania 1.3.0-alpha.zip
   * `BREAKING CHANGE`
     * changed map data format
     * old save file will not work anymore and will be `deleted` - custom maps included!
-  * added new tiles for dungeons and woods
+  * added new tiles for `dungeons and woods`
 * Pushmania 1.2.1-alpha.zip
   * fix some editor ui issues
 * Pushmania 1.2.0-alpha.zip
-  * added possibility to delete custom map
-  * added application icon
+  * added possibility to `delete custom map`
+  * fix application icon
   * fix various map editor issues
 * Pushmania 1.1.0-alpha.zip
-  * added map editor
+  * added `map editor`
   * added game mechanic `crate and holes`
 * Pushmania 1.0.0-alpha.zip
   * first working version
