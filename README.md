@@ -19,7 +19,10 @@ Tab .. swap controls
 
 ### Download
 
-* [Pushmania 1.3.5-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.5-alpha.zip)
+* [Pushmania 1.3.6-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.6-alpha.zip)
+  * Fix minor map editor issue
+  * Add tilesets `darkroot garden` and `anor lando`
+* Pushmania 1.3.5-alpha.zip
   * fix tutorial map crates and holes
   * fix some minor graphics issues
 * Pushmania 1.3.4-alpha.zip
