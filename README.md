@@ -19,7 +19,13 @@ Tab .. swap controls
 
 ### Download
 
-* [Pushmania 1.3.7-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.7-alpha.zip)
+* [Pushmania 1.3.8-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.8-alpha.zip)
+  * Add `The Temple` map into DS collection
+  * Improve map editor cursor and placement visibility
+  * Fix preview rendering
+  * Fix scrolling issue in map list
+  * Fix player animation after restart
+* Pushmania 1.3.7-alpha.zip
   * Update `Darkroot Garden` map
 * Pushmania 1.3.6-alpha.zip
   * Fix minor map editor issue
