@@ -19,7 +19,10 @@ Tab .. swap controls
 
 ### Download
 
-* [Pushmania 1.3.8-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.8-alpha.zip)
+* [Pushmania 1.3.9-alpha.zip](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.9-alpha.zip)
+  * Add to maps of Cliff Castle
+  * Add keyboard controls to map editor
+* Pushmania 1.3.8-alpha.zip
   * Add `The Temple` map into DS collection
   * Improve map editor cursor and placement visibility
   * Fix preview rendering
