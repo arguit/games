@@ -19,7 +19,11 @@ Tab .. swap controls
 
 ### Download
 
-* [Pushmania 1.3.10-alpha](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.10-alpha.zip)
+* [Pushmania 1.3.10-alpha](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.11-alpha.zip)
+  * Add DS players theme
+  * Add `lift and shift` game mechanic
+  * Add liftable version of crates
+* Pushmania 1.3.10-alpha
   * Add new tiles
   * Add maps
     * Chapel
