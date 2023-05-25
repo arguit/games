@@ -11,6 +11,7 @@ Kind of Sokoban spin-off for two players.
 ```text
 Player 1: arrows
 Player 2: w,a,s,d
+Space   : players coop action (lift crate)
 
 Esc .. back to menu
 F5  .. restart map
