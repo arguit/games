@@ -20,7 +20,11 @@ Tab .. swap controls
 
 ### Download
 
-* [Pushmania 1.3.11-alpha](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.11-alpha.zip)
+* [Pushmania 1.3.12-alpha](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.12-alpha.zip)
+  * Refactor objects to use inheritance
+  * Add players action indicator (liftable crate)
+  * Fix collision detection while holding crate
+* Pushmania 1.3.11-alpha
   * Add DS players theme
   * Add `lift and shift` game mechanic
   * Add liftable version of crates
