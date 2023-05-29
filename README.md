@@ -20,7 +20,10 @@ Tab .. swap controls
 
 ### Download
 
-* [Pushmania 1.3.12-alpha](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.12-alpha.zip)
+* [Pushmania 1.3.13-alpha](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.13-alpha.zip)
+  * Add `explosive crate` that explodes after pushed into another crate
+  * Add non-moveable concrete crate that can be destroyed by explosive crate
+* Pushmania 1.3.12-alpha
   * Refactor objects to use inheritance
   * Add players action indicator (liftable crate)
   * Fix collision detection while holding crate
