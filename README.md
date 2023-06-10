@@ -27,7 +27,7 @@ Tab .. swap controls
   * Add `Settings` menu
   * Fix TNT crate collision
   * Add map start after double click it in the main menu
-* [Pushmania 1.3.13-alpha](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.13-alpha.zip)
+* Pushmania 1.3.13-alpha
   * Add `explosive crate` that explodes after pushed into another crate
   * Add non-moveable concrete crate that can be destroyed by explosive crate
 * Pushmania 1.3.12-alpha
