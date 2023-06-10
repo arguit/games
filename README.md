@@ -20,6 +20,13 @@ Tab .. swap controls
 
 ### Download
 
+* [Pushmania 1.3.14-alpha](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.14-alpha.zip)
+  * Add `Tiny Lands` maps collection
+  * Add `ufo` like tiles
+  * Add `Far Lands` maps collection
+  * Add `Settings` menu
+  * Fix TNT crate collision
+  * Add map start after double click it in the main menu
 * [Pushmania 1.3.13-alpha](https://github.com/arguit/games/raw/master/releases/Pushmania%201.3.13-alpha.zip)
   * Add `explosive crate` that explodes after pushed into another crate
   * Add non-moveable concrete crate that can be destroyed by explosive crate
